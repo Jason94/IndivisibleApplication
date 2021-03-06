@@ -1,0 +1,109 @@
+id,name,type,dimension,url,created
+1,Earth (C-137),Planet,Dimension C-137,https://rickandmortyapi.com/api/location/1,2017-11-10T12:42:04.162Z
+2,Abadango,Cluster,unknown,https://rickandmortyapi.com/api/location/2,2017-11-10T13:06:38.182Z
+3,Citadel of Ricks,Space station,unknown,https://rickandmortyapi.com/api/location/3,2017-11-10T13:08:13.191Z
+4,Worldender's lair,Planet,unknown,https://rickandmortyapi.com/api/location/4,2017-11-10T13:08:20.569Z
+5,Anatomy Park,Microverse,Dimension C-137,https://rickandmortyapi.com/api/location/5,2017-11-10T13:08:46.060Z
+6,Interdimensional Cable,TV,unknown,https://rickandmortyapi.com/api/location/6,2017-11-10T13:09:09.102Z
+7,Immortality Field Resort,Resort,unknown,https://rickandmortyapi.com/api/location/7,2017-11-10T13:09:17.136Z
+8,Post-Apocalyptic Earth,Planet,Post-Apocalyptic Dimension,https://rickandmortyapi.com/api/location/8,2017-11-10T13:09:22.551Z
+9,Purge Planet,Planet,Replacement Dimension,https://rickandmortyapi.com/api/location/9,2017-11-10T13:09:29.566Z
+10,Venzenulon 7,Planet,unknown,https://rickandmortyapi.com/api/location/10,2017-11-18T11:21:51.643Z
+11,Bepis 9,Planet,unknown,https://rickandmortyapi.com/api/location/11,2017-11-18T11:26:03.325Z
+12,Cronenberg Earth,Planet,Cronenberg Dimension,https://rickandmortyapi.com/api/location/12,2017-11-18T11:29:27.857Z
+13,Nuptia 4,Planet,unknown,https://rickandmortyapi.com/api/location/13,2017-11-18T11:30:29.780Z
+14,Giant's Town,Fantasy town,Fantasy Dimension,https://rickandmortyapi.com/api/location/14,2017-11-18T11:31:15.248Z
+15,Bird World,Planet,unknown,https://rickandmortyapi.com/api/location/15,2017-11-18T11:32:26.752Z
+16,St. Gloopy Noops Hospital,Space station,unknown,https://rickandmortyapi.com/api/location/16,2017-11-18T11:43:20.075Z
+17,Earth (5-126),Planet,Dimension 5-126,https://rickandmortyapi.com/api/location/17,2017-11-18T11:41:08.486Z
+18,Mr. Goldenfold's dream,Dream,Dimension C-137,https://rickandmortyapi.com/api/location/18,2017-11-18T11:46:22.933Z
+19,Gromflom Prime,Planet,Replacement Dimension,https://rickandmortyapi.com/api/location/19,2017-11-18T11:39:52.165Z
+20,Earth (Replacement Dimension),Planet,Replacement Dimension,https://rickandmortyapi.com/api/location/20,2017-11-18T19:33:01.173Z
+21,Testicle Monster Dimension,Dimension,Testicle Monster Dimension,https://rickandmortyapi.com/api/location/21,2017-11-18T19:41:01.605Z
+22,Signus 5 Expanse,unknown,Cromulon Dimension,https://rickandmortyapi.com/api/location/22,2017-11-18T20:27:26.218Z
+23,Earth (C-500A),Planet,Dimension C-500A,https://rickandmortyapi.com/api/location/23,2017-11-18T20:58:15.178Z
+24,Rick's Battery Microverse,Microverse,Replacement Dimension,https://rickandmortyapi.com/api/location/24,2017-11-30T11:02:41.722Z
+25,The Menagerie,Menagerie,unknown,https://rickandmortyapi.com/api/location/25,2017-11-30T11:13:46.697Z
+26,Earth (K-83),Planet,Dimension K-83,https://rickandmortyapi.com/api/location/26,2017-11-30T11:41:11.452Z
+27,Hideout Planet,Planet,unknown,https://rickandmortyapi.com/api/location/27,2017-11-30T14:18:16.869Z
+28,Unity's Planet,Planet,Replacement Dimension,https://rickandmortyapi.com/api/location/28,2017-11-30T14:28:54.591Z
+29,Dorian 5,Planet,Replacement Dimension,https://rickandmortyapi.com/api/location/29,2017-12-01T11:36:16.463Z
+30,Earth (Unknown dimension),Planet,unknown,https://rickandmortyapi.com/api/location/30,2017-12-01T11:49:43.923Z
+31,Earth (J19ζ7),Planet,Dimension J19ζ7,https://rickandmortyapi.com/api/location/31,2017-12-01T12:29:27.976Z
+32,Roy: A Life Well Lived,Game,Replacement Dimension,https://rickandmortyapi.com/api/location/32,2017-12-26T12:46:48.798Z
+33,Eric Stoltz Mask Earth,Planet,Eric Stoltz Mask Dimension,https://rickandmortyapi.com/api/location/33,2017-12-26T13:43:29.291Z
+34,Earth (Evil Rick's Target Dimension),Planet,Evil Rick's Target Dimension,https://rickandmortyapi.com/api/location/34,2017-12-26T15:35:20.499Z
+35,Planet Squanch,Planet,Replacement Dimension,https://rickandmortyapi.com/api/location/35,2017-12-26T17:51:53.018Z
+36,Glaagablaaga,Planet,unknown,https://rickandmortyapi.com/api/location/36,2017-12-26T20:30:45.939Z
+37,Resort Planet,Planet,unknown,https://rickandmortyapi.com/api/location/37,2017-12-27T20:02:59.005Z
+38,Interdimensional Customs,Customs,unknown,https://rickandmortyapi.com/api/location/38,2017-12-29T10:37:48.281Z
+39,Galactic Federation Prison,Space station,unknown,https://rickandmortyapi.com/api/location/39,2017-12-29T12:02:33.513Z
+40,Gazorpazorp,Planet,unknown,https://rickandmortyapi.com/api/location/40,2017-12-29T12:31:50.313Z
+41,Hamster in Butt World,Planet,unknown,https://rickandmortyapi.com/api/location/41,2017-12-29T15:27:54.209Z
+42,Earth (Giant Telepathic Spiders Dimension),Planet,Giant Telepathic Spiders Dimension,https://rickandmortyapi.com/api/location/42,2017-12-29T16:03:28.720Z
+43,Alphabetrium,Planet,Replacement Dimension,https://rickandmortyapi.com/api/location/43,2017-12-29T16:08:47.694Z
+44,Jerryboree,Daycare,unknown,https://rickandmortyapi.com/api/location/44,2017-12-29T17:50:19.947Z
+45,Krootabulon,Planet,Replacement Dimension,https://rickandmortyapi.com/api/location/45,2017-12-29T19:26:06.827Z
+46,Zigerion's Base,Space station,Dimension C-137,https://rickandmortyapi.com/api/location/46,2017-12-29T19:40:07.748Z
+47,Pluto,Dwarf planet (Celestial Dwarf),Replacement Dimension,https://rickandmortyapi.com/api/location/47,2017-12-29T19:49:29.228Z
+48,Fantasy World,Planet,Fantasy Dimension,https://rickandmortyapi.com/api/location/48,2017-12-29T19:55:54.672Z
+49,Zeep Xanflorp's Miniverse,Miniverse,Replacement Dimension,https://rickandmortyapi.com/api/location/49,2017-12-29T19:58:44.675Z
+50,Kyle's Teenyverse,Teenyverse,Replacement Dimension,https://rickandmortyapi.com/api/location/50,2017-12-30T12:36:19.730Z
+51,Larva Alien's Planet,Planet,Unknown dimension,https://rickandmortyapi.com/api/location/51,2017-12-30T12:48:19.312Z
+52,Earth (K-22),Planet,Dimension K-22,https://rickandmortyapi.com/api/location/52,2017-12-30T16:33:49.507Z
+53,Mr. Meeseeks Box,Box,unknown,https://rickandmortyapi.com/api/location/53,2017-12-30T17:52:12.217Z
+54,Vindicator's Base,Spacecraft,unknown,https://rickandmortyapi.com/api/location/54,2017-12-31T12:57:37.824Z
+55,Pawn Shop Planet,Planet,Replacement Dimension,https://rickandmortyapi.com/api/location/55,2017-12-31T13:30:33.579Z
+56,Mega Gargantuan Kingdom,Microverse,Replacement Dimension,https://rickandmortyapi.com/api/location/56,2017-12-31T14:01:44.921Z
+57,Gear World,Planet,unknown,https://rickandmortyapi.com/api/location/57,2017-12-31T19:21:17.276Z
+58,Earth (D-99),Planet,Dimension D-99,https://rickandmortyapi.com/api/location/58,2017-12-31T19:49:55.109Z
+59,Earth (D716),Planet,Dimension D716,https://rickandmortyapi.com/api/location/59,2017-12-31T19:51:33.170Z
+60,Earth (D716-B),Planet,Dimension D716-B,https://rickandmortyapi.com/api/location/60,2017-12-31T19:55:25.026Z
+61,Earth (D716-C),Planet,Dimension D716-C,https://rickandmortyapi.com/api/location/61,2017-12-31T19:57:36.468Z
+62,Earth (J-22),Planet,Dimension J-22,https://rickandmortyapi.com/api/location/62,2017-12-31T20:16:52.263Z
+63,Froopyland,Artificially generated world,Replacement Dimension,https://rickandmortyapi.com/api/location/63,2018-01-10T17:55:14.227Z
+64,Detoxifier,Machine,Replacement Dimension,https://rickandmortyapi.com/api/location/64,2018-01-10T18:20:41.627Z
+65,Trunk World,Planet,unknown,https://rickandmortyapi.com/api/location/65,2018-01-10T19:03:13.484Z
+66,Plopstar,Planet,unknown,https://rickandmortyapi.com/api/location/66,2018-01-10T19:56:57.717Z
+67,Blips and Chitz,Arcade,Replacement Dimension,https://rickandmortyapi.com/api/location/67,2018-01-21T19:01:19.496Z
+68,Girvonesk,unknown,unknown,https://rickandmortyapi.com/api/location/68,2018-04-15T16:39:38.598Z
+69,Earth (C-35),Planet,Dimension C-35,https://rickandmortyapi.com/api/location/69,2018-04-15T16:55:56.212Z
+70,Snuffles' Dream,Dream,Dimension C-137,https://rickandmortyapi.com/api/location/70,2018-04-15T17:13:54.071Z
+71,Earth (Pizza Dimension),Planet,Pizza Dimension,https://rickandmortyapi.com/api/location/71,2018-04-15T17:55:04.478Z
+72,Earth (Phone Dimension),Planet,Phone Dimension,https://rickandmortyapi.com/api/location/72,2018-04-15T17:56:09.117Z
+73,Greasy Grandma World,Planet,unknown,https://rickandmortyapi.com/api/location/73,2018-04-16T21:50:20.144Z
+74,Earth (Chair Dimension),Planet,Chair Dimension,https://rickandmortyapi.com/api/location/74,2018-04-16T21:58:24.292Z
+75,Árboles Mentirosos,Planet,unknown,https://rickandmortyapi.com/api/location/75,2018-05-01T15:27:20.251Z
+76,Alien Day Spa,Spa,unknown,https://rickandmortyapi.com/api/location/76,2018-05-22T20:49:01.820Z
+77,Earth (Fascist Dimension),Planet,Fascist Dimension,https://rickandmortyapi.com/api/location/77,2020-05-02T09:39:49.158Z
+78,Snake Planet,Planet,Replacement Dimension,https://rickandmortyapi.com/api/location/78,2020-05-02T09:47:39.754Z
+79,Forbodulon Prime,Planet,Replacement Dimension,https://rickandmortyapi.com/api/location/79,2020-05-02T10:04:05.509Z
+80,Earth (Fascist Shrimp Dimension),Planet,Fascist Shrimp Dimension,https://rickandmortyapi.com/api/location/80,2020-05-02T11:52:35.156Z
+81,Earth (Fascist Teddy Bear Dimension),Planet,Fascist Teddy Bear Dimension,https://rickandmortyapi.com/api/location/81,2020-05-02T12:16:18.224Z
+82,Earth (Wasp Dimension),Planet,Wasp Dimension,https://rickandmortyapi.com/api/location/82,2020-05-02T12:34:19.656Z
+83,Monogatron Mothership,Space station,Replacement Dimension,https://rickandmortyapi.com/api/location/83,2020-05-02T13:10:42.299Z
+84,Gorgon Quadrant,Quadrant,Replacement Dimension,https://rickandmortyapi.com/api/location/84,2020-05-02T13:21:49.663Z
+85,Midland Quasar,Quasar,Replacement Dimension,https://rickandmortyapi.com/api/location/85,2020-05-02T13:30:41.732Z
+86,Mount Space Everest,Mount,Replacement Dimension,https://rickandmortyapi.com/api/location/86,2020-05-02T13:34:45.332Z
+87,Globaflyn,Liquid,Replacement Dimension,https://rickandmortyapi.com/api/location/87,2020-05-02T13:44:54.688Z
+88,Heist-Con,Convention,Replacement Dimension,https://rickandmortyapi.com/api/location/88,2020-05-07T09:07:41.816Z
+89,Heistotron Base,Space station,Replacement Dimension,https://rickandmortyapi.com/api/location/89,2020-05-07T10:11:40.632Z
+90,Mount Olympus,Mount,Replacement Dimension,https://rickandmortyapi.com/api/location/90,2020-05-07T10:19:34.206Z
+91,Plitzville Montana,Woods,Replacement Dimension,https://rickandmortyapi.com/api/location/91,2020-05-07T10:23:07.595Z
+92,Earth (Tusk Dimension),Planet,Tusk Dimension,https://rickandmortyapi.com/api/location/92,2020-05-07T10:25:11.950Z
+93,Gramuflack,Planet,Replacement Dimension,https://rickandmortyapi.com/api/location/93,2020-05-07T10:26:35.591Z
+94,Draygon,Planet,Magic Dimension,https://rickandmortyapi.com/api/location/94,2020-05-07T11:30:49.963Z
+95,New Improved Galactic Federation Quarters,Space station,Replacement Dimension,https://rickandmortyapi.com/api/location/95,2020-08-05T12:42:58.048Z
+96,Story Train,Diegesis,Replacement Dimension,https://rickandmortyapi.com/api/location/96,2020-08-06T09:47:28.216Z
+97,Non-Diegetic Alternative Reality,Non-Diegetic Alternative Reality,Replacement Dimension,https://rickandmortyapi.com/api/location/97,2020-08-06T09:50:13.771Z
+98,Tickets Please Guy Nightmare,Nightmare,Replacement Dimension,https://rickandmortyapi.com/api/location/98,2020-08-06T09:52:43.580Z
+99,Morty’s Story,Diegesis,Replacement Dimension,https://rickandmortyapi.com/api/location/99,2020-08-06T11:42:46.054Z
+100,Ricks’s Story,Diegesis,Replacement Dimension,https://rickandmortyapi.com/api/location/100,2020-08-06T11:45:08.782Z
+101,Glorzo Asteroid,Asteroid,Replacement Dimension,https://rickandmortyapi.com/api/location/101,2020-08-07T11:28:46.897Z
+102,Alien Acid Plant,Acid Plant,Replacement Dimension,https://rickandmortyapi.com/api/location/102,2020-08-13T10:08:12.986Z
+103,Merged Universe,Dimension,Merged Dimension,https://rickandmortyapi.com/api/location/103,2020-08-13T10:16:18.946Z
+104,Near-Duplicate Reality,Reality,Unknown dimension,https://rickandmortyapi.com/api/location/104,2020-08-13T11:15:54.414Z
+105,NX-5 Planet Remover,Death Star,Replacement Dimension,https://rickandmortyapi.com/api/location/105,2020-08-13T11:35:53.644Z
+106,Gaia,Planet,Replacement Dimension,https://rickandmortyapi.com/api/location/106,2020-08-13T12:00:29.825Z
+107,Defiance's Ship,Spacecraft,Replacement Dimension,https://rickandmortyapi.com/api/location/107,2020-08-13T13:05:33.161Z
+108,Defiance's Base,Base,Replacement Dimension,https://rickandmortyapi.com/api/location/108,2020-08-13T13:07:01.192Z

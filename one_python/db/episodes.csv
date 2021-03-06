@@ -1,0 +1,42 @@
+id,name,air_date,episode,url,created
+1,Pilot,"December 2, 2013",S01E01,https://rickandmortyapi.com/api/episode/1,2017-11-10T12:56:33.798Z
+2,Lawnmower Dog,"December 9, 2013",S01E02,https://rickandmortyapi.com/api/episode/2,2017-11-10T12:56:33.916Z
+3,Anatomy Park,"December 16, 2013",S01E03,https://rickandmortyapi.com/api/episode/3,2017-11-10T12:56:34.022Z
+4,M. Night Shaym-Aliens!,"January 13, 2014",S01E04,https://rickandmortyapi.com/api/episode/4,2017-11-10T12:56:34.129Z
+5,Meeseeks and Destroy,"January 20, 2014",S01E05,https://rickandmortyapi.com/api/episode/5,2017-11-10T12:56:34.236Z
+6,Rick Potion #9,"January 27, 2014",S01E06,https://rickandmortyapi.com/api/episode/6,2017-11-10T12:56:34.339Z
+7,Raising Gazorpazorp,"March 10, 2014",S01E07,https://rickandmortyapi.com/api/episode/7,2017-11-10T12:56:34.441Z
+8,Rixty Minutes,"March 17, 2014",S01E08,https://rickandmortyapi.com/api/episode/8,2017-11-10T12:56:34.543Z
+9,Something Ricked This Way Comes,"March 24, 2014",S01E09,https://rickandmortyapi.com/api/episode/9,2017-11-10T12:56:34.645Z
+10,Close Rick-counters of the Rick Kind,"April 7, 2014",S01E10,https://rickandmortyapi.com/api/episode/10,2017-11-10T12:56:34.747Z
+11,Ricksy Business,"April 14, 2014",S01E11,https://rickandmortyapi.com/api/episode/11,2017-11-10T12:56:34.850Z
+12,A Rickle in Time,"July 26, 2015",S02E01,https://rickandmortyapi.com/api/episode/12,2017-11-10T12:56:34.953Z
+13,Mortynight Run,"August 2, 2015",S02E02,https://rickandmortyapi.com/api/episode/13,2017-11-10T12:56:35.055Z
+14,Auto Erotic Assimilation,"August 9, 2015",S02E03,https://rickandmortyapi.com/api/episode/14,2017-11-10T12:56:35.158Z
+15,Total Rickall,"August 16, 2015",S02E04,https://rickandmortyapi.com/api/episode/15,2017-11-10T12:56:35.261Z
+16,Get Schwifty,"August 23, 2015",S02E05,https://rickandmortyapi.com/api/episode/16,2017-11-10T12:56:35.364Z
+17,The Ricks Must Be Crazy,"August 30, 2015",S02E06,https://rickandmortyapi.com/api/episode/17,2017-11-10T12:56:35.467Z
+18,Big Trouble in Little Sanchez,"September 13, 2015",S02E07,https://rickandmortyapi.com/api/episode/18,2017-11-10T12:56:35.569Z
+19,Interdimensional Cable 2: Tempting Fate,"September 20, 2015",S02E08,https://rickandmortyapi.com/api/episode/19,2017-11-10T12:56:35.669Z
+20,Look Who's Purging Now,"September 27, 2015",S02E09,https://rickandmortyapi.com/api/episode/20,2017-11-10T12:56:35.772Z
+21,The Wedding Squanchers,"October 4, 2015",S02E10,https://rickandmortyapi.com/api/episode/21,2017-11-10T12:56:35.875Z
+22,The Rickshank Rickdemption,"April 1, 2017",S03E01,https://rickandmortyapi.com/api/episode/22,2017-11-10T12:56:35.983Z
+23,Rickmancing the Stone,"July 30, 2017",S03E02,https://rickandmortyapi.com/api/episode/23,2017-11-10T12:56:36.100Z
+24,Pickle Rick,"August 6, 2017",S03E03,https://rickandmortyapi.com/api/episode/24,2017-11-10T12:56:36.206Z
+25,Vindicators 3: The Return of Worldender,"August 13, 2017",S03E04,https://rickandmortyapi.com/api/episode/25,2017-11-10T12:56:36.310Z
+26,The Whirly Dirly Conspiracy,"August 20, 2017",S03E05,https://rickandmortyapi.com/api/episode/26,2017-11-10T12:56:36.413Z
+27,Rest and Ricklaxation,"August 27, 2017",S03E06,https://rickandmortyapi.com/api/episode/27,2017-11-10T12:56:36.515Z
+28,The Ricklantis Mixup,"September 10, 2017",S03E07,https://rickandmortyapi.com/api/episode/28,2017-11-10T12:56:36.618Z
+29,Morty's Mind Blowers,"September 17, 2017",S03E08,https://rickandmortyapi.com/api/episode/29,2017-11-10T12:56:36.726Z
+30,The ABC's of Beth,"September 24, 2017",S03E09,https://rickandmortyapi.com/api/episode/30,2017-11-10T12:56:36.828Z
+31,The Rickchurian Mortydate,"October 1, 2017",S03E10,https://rickandmortyapi.com/api/episode/31,2017-11-10T12:56:36.929Z
+32,"Edge of Tomorty: Rick, Die, Rickpeat","November 10, 2019",S04E01,https://rickandmortyapi.com/api/episode/32,2020-04-30T06:52:04.495Z
+33,The Old Man and the Seat,"November 17, 2019",S04E02,https://rickandmortyapi.com/api/episode/33,2020-04-30T06:52:04.498Z
+34,One Crew Over the Crewcoo's Morty,"November 24, 2019",S04E03,https://rickandmortyapi.com/api/episode/34,2020-04-30T06:52:04.498Z
+35,Claw and Hoarder: Special Ricktim's Morty,"December 8, 2019",S04E04,https://rickandmortyapi.com/api/episode/35,2020-04-30T06:52:04.498Z
+36,Rattlestar Ricklactica,"December 15, 2019",S04E05,https://rickandmortyapi.com/api/episode/36,2020-04-30T06:52:04.499Z
+37,Never Ricking Morty,"May 3, 2020",S04E06,https://rickandmortyapi.com/api/episode/37,2020-08-06T05:44:21.422Z
+38,Promortyus,"May 10, 2020",S04E07,https://rickandmortyapi.com/api/episode/38,2020-08-06T05:49:40.563Z
+39,The Vat of Acid Episode,"May 17, 2020",S04E08,https://rickandmortyapi.com/api/episode/39,2020-08-06T05:51:07.419Z
+40,Childrick of Mort,"May 24, 2020",S04E09,https://rickandmortyapi.com/api/episode/40,2020-08-06T05:51:25.458Z
+41,Star Mort: Rickturn of the Jerri,"May 31, 2020",S04E10,https://rickandmortyapi.com/api/episode/41,2020-08-06T05:51:52.079Z
